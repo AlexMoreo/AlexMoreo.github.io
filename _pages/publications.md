@@ -37,11 +37,12 @@ _Multi-Label Quantification_. *ACM Transactions on Knowledge Discovery from Data
 [[link]](https://dl.acm.org/doi/10.1145/3606264)
 
 * Andrea Esuli, Alessandro Fabris, Alejandro Moreo, Fabrizio Sebastiani. 
-_Measuring Fairness under Unawareness of Sensitive Attributes: A Quantification-Based Approach_. *Journal of Artificial Intelligence Research*, vol 76, pp. 1117-1180, 
+_Measuring Fairness under Unawareness of Sensitive Attributes: A Quantification-Based Approach_.
+*Journal of Artificial Intelligence Research*, vol 76, pp. 1117-1180, 
 DOI 10.1613/jair.1.14033,
 2023
 [[link]](https://jair.org/index.php/jair/article/view/14033)
-%*arXiv preprint*, arXiv:2109.08549
+
 
 * Francesco Banterle, Alessandro Artusi, Alejandro Moreo, Fabio Carrara, Paolo Cignoni
 _NoR-VDPNet++: Real-Time No-Reference Image Quality Metrics_,
