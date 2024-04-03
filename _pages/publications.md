@@ -9,8 +9,4 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Paper 1 with [link](http://AlexMoreo.github.io/files/DV-TKDD.2023.pdf) and [link](./files/DV-TKDD.2023.pdf)
