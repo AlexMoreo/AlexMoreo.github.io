@@ -9,56 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+
+*Tenured Researcher at the Institute of Information Science and Technology*, Italian
+National Research Council (ISTI-CNR), Pisa, since 2013.
+
+Born in 1985, in Granada, Spain. Spanish citizenship.
+----
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Computer Sciences and Information Technologies (10/10 cum laude), University of Granada, 2013.
+* Master Degree in Soft Computing and Intelligent Systems (with honours), University of Granada, 2010.
+* Bachelor’s degree in Computer Engineering (3.037/4 and 21 honours), University of Granada, 2008.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+My CV can be accessed from [here](http://AlexMoreo.github.io/files/CV_apr2024.pdf)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
