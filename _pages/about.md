@@ -20,8 +20,10 @@ I am a tenured researcher at Istituto di Scienza e Tecnologie dell’Informazion
 
 ## News
 
-[Feb. 2024] The new version of the open-source framework for quantification [QuaPy v0.1.8](https://github.com/HLT-ISTI/QuaPy) has been released! 
-[Mar. 2023] Our book about _Learning to quantify_ has been published! The book is [open-access](https://link.springer.com/book/10.1007/978-3-031-20467-8).
+* [Feb. 2024] The new version of the open-source framework for quantification [QuaPy v0.1.8](https://github.com/HLT-ISTI/QuaPy) has been released!
+* [Feb. 2024] We are organizing ["Learning to Quantify: Methods and Applications" (LQ2024)](https://lq-2024.github.io/), a tutorial + workshop event co-located with the [ECML/PKDD 2024](https://ecmlpkdd.org/2024/) conference that will take place on September 9-13, 2024, in Vilnius, Lithuania.
+* [Feb. 2024] We are organizing ["LeQua 2024: Learning to Quantify"](https://lequa2024.github.io/), the 2nd data challenge on Learning to Quantify.
+* [Mar. 2023] Our book about _Learning to quantify_ has been published! The book is [open-access](https://link.springer.com/book/10.1007/978-3-031-20467-8).
 
 ## More About Me
 * [Publications](https://alexmoreo.github.io/publications/)
