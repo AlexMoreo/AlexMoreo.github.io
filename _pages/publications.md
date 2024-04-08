@@ -163,4 +163,123 @@ _Using Wikipedia concepts and frequency in language to extract key terms from su
 [[link]](https://www.sciencedirect.com/science/article/pii/S0957417412008664)
 
 
+## Books
+
+* Andrea Esuli, Alessandro Fabris, Alejandro Moreo, Fabrizio Sebastiani. Learning to Quantify.
+The Information Retrieval Series, vol. 47, p. 1-110, ChengXiang Zhai, Maarten de Rijke,
+ISBN: 978-3-031-20466-1, ISSN: 2949-8066. [[open-access]](https://link.springer.com/book/10.1007/978-3-031-20467-8)
+
+## Conference papers
+
+International conferences (22 items)
+* Mirko Bunse, Alejandro Moreo, Fabrizio Sebastiani, Martin Senz, Ordinal Quantification
+through Regularization. ECML / PKDD 2022, 33rd European Conference on Ma-
+chine Learning and Principles and Practice of Knowledge Discovery in Databases,
+Grenoble, France, September 19-23, 2022, pp. 36-52
+
+* Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, Gianluca Sperduti, A Concise Overview
+of LeQua@ CLEF 2022: Learning to Quantify, CLEF 2022, Proceedings of the 13th
+Conference and Labs of the Evaluation Forum, Springer, Cham, 2022, pages 362-381
+
+* Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, Gianluca Sperduti, A Detailed Overview
+of LeQua@ CLEF 2022: Learning to Quantify, CLEF 2022, Proceedings of the 13th
+Conference and Labs of the Evaluation Forum, CEUR Workshop Proceedings, 2022,
+3180, pp. 1849-1868
+
+* Silvia Corbara, Berta Chulvi, Paolo Rosso, Alejandro Moreo, Rythmic and Psycolinguistic
+Features for Authorship Tasks in the Spanish Parliament: Evaluation and Analysis, CLEF
+2022 Conference and Labs of the Evaluation Forum, 2022, pages 79–92
+
+* Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, LeQua@ CLEF2022: Learning to Quan-
+tify, ECIR 2022, 44th European Conference on Information Retrieval, Stavanger,
+NO, 2022, pages 374-381
+
+* Silvia Corbara, Berta Chulvi Ferriols, Paolo Rosso, Alejandro Moreo, Investigating topic-
+agnostic features for authorship tasks in Spanish political speeches, International Confer-
+ence on Applications of Natural Language to Information Systems, Springer, Cham,
+2022, pages 394-402
+
+* Juan José del Coz, Pablo González, Alejandro Moreo, Fabrizio Sebastiani, Learning to quan-
+tify: Methods and applications (LQ 2021), Proceedings of the 30th ACM International
+Conference on Information & Knowledge Management, 2021, pages 4874-4875
+
+* Alejandro Moreo, Andrea Esuli, Fabrizio Sebastiani, QuaPy: a python-based framework for
+quantification, Proceedings of the 30th ACM International Conference on Informa-
+tion & Knowledge Management, 2021, pages 4534-4543
+
+* Francesco Banterle, Alessandro Artusi, Alejandro Moreo, Fabio Carrara, NoR-VDPNet++:
+Efficient Training and Architecture for Deep No-Reference Image Quality Metrics, ACM
+SIGGRAPH 2021 Talks, 2021
+
+* Alejandro Moreo, Fabrizio Sebastiani, Re-Assessing the “Classify and Count” Quantification
+Method, ECIR 2021, 43rd European Conference on Information Retrieval, Lucca,
+IT, Volume II, 2021, pages 75-91
+
+* Alejandro Moreo, Andrea Pedrotti, Fabrizio Sebastiani, Heterogeneous Document Embeddings
+for Cross-Lingual Text Classification, SAC 2021, 36th ACM Symposium On Applied
+Computing, Gwangju, KR, 2021, pages 685-688
+
+* Juan José del Coz Velasco, Pablo González González, A Moreo, F Sebastiani, Learning to
+quantify: methods and applications (LQ 2021), CIKM ’21: Proceedings of the 30th ACM
+International Conference on Information & Knowledge Management, October 2021,
+pages 4874–4875
+
+* Francesco Banterle, Alessandro Artusi, Alejandro Moreo, Fabio Carrara, Nor-Vdpnet: A No-
+Reference High Dynamic Range Quality Metric Trained On Hdr-Vdp 2, 2020 IEEE Inter-
+national Conference on Image Processing (ICIP), 2020, pages 126-130.
+
+* Silvia Corbara, Alejandro Moreo, Fabrizio Sebastiani, and Mirko Tavoni, The Epistle to Can-
+grande Through the Lens of Computational Authorship Verification, PATRECH 2019, In-
+ternational Conference on Image Analysis and Processing, 2019, pages 148-158.
+
+* Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani A Recurrent Neural Network for Sen-
+timent Quantification Proceedings of the 27th ACM International Conference on
+Information and Knowledge Management, CIKM 2018, Torino, Italy, October 22-26,
+2018, pages 1775-1778.
+
+* Alejandro Moreo, Andrea Esuli, Fabrizio Sebastiani Lightweight random indexing for polylin-
+gual text classification (Extended Abstract) Proceedings of the 27th International Joint
+Conference on Artificial Intelligence, IJCAI 2018, Stockholm, Sweden, 13-19 July 2018,
+pages 5642-5646.
+
+* Alejandro Moreo, Andrea Esuli, Fabrizio Sebastiani Distributional correspondence indexing
+for cross-lingual and cross-domain sentiment classification (Extended Abstract) Proceedings
+of the 27th IJCAI International Joint Conference on Artificial Intelligence, IJCAI
+2018, Stockholm, Sweden, 13-19 July 2018, pages 5642-5646.
+
+* Alejandro Moreo, Andrea Esuli, Fabrizio Sebastiani Distributional Random Oversampling for
+Imbalanced Text Classification Proceedings of the 39th International ACM SIGIR
+conference on Research and and Development in Information Retrieval, SIGIR
+2016, Pisa, Italy, July 17-21, 2016, pages 805-808.
+
+* Salud M Jiménez Zafra, Giacomo Berardi, Andrea Esuli, Diego Marcheggiani, Marı́a Teresa
+Martı́n-Valdivia, Alejandro Moreo A Multi-lingual Annotated Dataset for Aspect-Oriented
+Opinion Mining Proceedings of the 2015 Conference on Empirical Methods in Nat-
+ural Language Processing, EMNLP 2015, Lisbon, Portugal, 2015, pages 2533-2538.
+
+* Andrea Esuli, Alejandro Moreo Distributional Correspondence Indexing for Cross-Language
+Text Categorization, Proceedings of the European Conference on Information Re-
+trieval, ECIR 2015, Vienna, Austria, 2015, pages 104-109.
+
+* Manuel Romero, Alejandro Moreo, and Juan Luis Castro. Collaborative system for learning
+based on questionnaires and tasks. International Joint Conference SOCO’13-CISIS’13-
+ICEUTE’13. Springer, 2013, pages 631-640.
+
+* Alejandro Moreo, Juan Luis Castro, and Jose Manuel Zurita. Handling context in lexicon-
+based sentiment analysis. International Conference on Information Processing and
+Management of Uncertainty in Knowledge-Based Systems. Springer, 2012, pages
+245-254.
+
+# National conferences and Workshops
+
+* Alejandro Moreo, Andrea Pedrotti, Fabrizio Sebastiani, Generalized funnelling: Ensemble
+learning and heterogeneous document embeddings for cross-lingual text classification (Extended
+Abstract), IIR 2021, Italian Information Retrieval Workshop, Bari, IT , 2021
+
+* Gianluca Sperduti, Alejandro Moreo, Fabrizio Sebastiani, Garbled-Word Embeddings for Jum-
+bled Text, IIR 2021, Italian Information Retrieval Workshop, Bari, IT, 2021
+
+* Alejandro Moreo, Andrea Esuli, Fabrizio Sebastiani Transductive Distributional Correspon-
+dence Indexing for Cross-Domain Topic Classification. IIR 2016, 7th Italian Information
+Retrieval Workshop, 2016, Venice, Italy.
 
