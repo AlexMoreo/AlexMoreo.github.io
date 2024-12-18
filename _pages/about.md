@@ -9,12 +9,20 @@ redirect_from:
 
 ## About Me
 
-I am a Senior Researcher at Istituto di Scienza e Tecnologie dell’Informazione "A. Faedo", which is part of the National Research Council (CNR). I received a PhD in Computer Sciences and Information Technologies from the University of Granada in 2013. 
+I am a Senior Researcher at [Istituto di Scienza e Tecnologie dell’Informazione "A. Faedo"](https://www.isti.cnr.it/en/), which is part of the [National Research Council](https://www.cnr.it/en) of Italy. 
+
+Born in 1985, in Granada, Spain. Spanish citizenship.
 
 ## Research Interests:
-* Learning to quantify
+* Quantification 
 * Machine learning, deep learning, and representation learning
 * Text classification, cross-lingual classification, and authorship analysis
+
+## Education
+
+* PhD in Computer Sciences and Information Technologies (10/10 cum laude), University of Granada, 2013.
+* Master Degree in Soft Computing and Intelligent Systems (with honours), University of Granada, 2010.
+* Bachelor’s degree in Computer Engineering (3.037/4 and 21 honours), University of Granada, 2008.
 
 ## News
 
