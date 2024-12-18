@@ -1,3 +1,9 @@
+# Files
+
+Relevant files:
+* CV is in files/CV.Moreo.pdf
+* The main page is _pages/about.md
+
 
 # Academic Pages
 
