@@ -14,7 +14,7 @@ I am a Senior Researcher at [Istituto di Scienza e Tecnologie dell’Informazion
 Born in 1985, in Granada, Spain. Spanish citizenship.
 
 ## Research Interests:
-* Quantification 
+* Quantification (aka _class prevalence estimation_)
 * Machine learning, deep learning, and representation learning
 * Text classification, cross-lingual classification, and authorship analysis
 
@@ -26,6 +26,8 @@ Born in 1985, in Granada, Spain. Spanish citizenship.
 
 ## News
 
+* [Sep. 2025] We will present ["Learning to Quantify: Methods and Applications" (LQ2025)](https://lq-2025.github.io/), the fifth edition of the quantification workshop, co-located with the [ECML/PKDD 2025](https://ecmlpkdd.org/2025/)
+* Check out my [preprint paper](https://arxiv.org/abs/2505.11380) that discusses the interconnections between calibration, quantification, and classifier accuracy prediction 
 * [Sep. 2024] The new version of the open-source framework for quantification [QuaPy v0.1.9](https://github.com/HLT-ISTI/QuaPy) has been released!
 * [Sep. 2024] We are presenting ["Learning to Quantify: Methods and Applications" (LQ2024)](https://lq-2024.github.io/), a tutorial + workshop event co-located with the [ECML/PKDD 2024](https://ecmlpkdd.org/2024/) conference during September 9-13, 2024, in Vilnius, Lithuania.
 * [Feb. 2024] We are organizing ["LeQua 2024: Learning to Quantify"](https://lequa2024.github.io/), the 2nd data challenge on Learning to Quantify.
