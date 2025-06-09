@@ -11,21 +11,39 @@ author_profile: true
 
 ## Journal papers
 
-* Mattia Setzu, Silvia Corbara, Anna Monreale, Alejandro Moreo, Fabrizio Sebastiani. 
-_Explainable Authorship Identification in Cultural Heritage Applications: Analysis of a New Perspective_. 
-*ACM Journal of Computing and Cultural Heritage*, "Just Accepted", 2024 [[arXiv]](https://arxiv.org/pdf/2311.02237.pdf)
+* Lorenzo Volpi, Alejandro Moreo, Fabrizio Sebastiani.
+  _QuAcc: Using Quantification to Predict Classifier Accuracy Under Prior Probability Shift_.
+  *Intelligenza Artificiale*, 2025. [[link]](https://doi.org/10.1177/172480352513383)
+
+* Alejandro Moreo, Pablo González, Juan José del Coz.
+  _Kernel Density Estimation for Multiclass Quantification_.
+  *Machine Learning journal*, vol 114, no 92, 2025. [[link]](https://doi.org/10.1007/s10994-024-06726-5)
+
+* Washington Cunha, Alejandro Moreo, Andrea Esuli, Fabrizio Sebastiani, Leonardo Rocha,
+Marcos André Gonçalves.
+  _A Noise-Oriented and Redundancy-Aware Instance Selection Framework_.
+  *ACM Transactions on Information Systems*, vol 43, issue 2, no 45, pp 1-33, 2025. [[link]](https://doi.org/10.1145/3705000)
+
+* Olaya Pérez-Mon, Alejandro Moreo, Juan José del Coz, Pablo González.
+  _Quantification using Permutation-Invariant Networks based on Histograms_.
+  *Neural Computing and Applications*, vol 37, pp. 3505–3520, 2025. [[link]](https://doi.org/10.1007/s00521-024-10721-1)
+
+* Mattia Setzu, Silvia Corbara, Anna Monreale, Alejandro Moreo, Fabrizio Sebastiani.
+  _Explainable Authorship Identification in Cultural Heritage Applications_.
+  *ACM Journal of Computing and Cultural Heritage*, vol 17, issue 3, no 44, pp 1-23, 2024 [[arXiv]](https://arxiv.org/pdf/2311.02237.pdf) [[link]](https://doi.org/10.1145/3654675)
 
 * Pablo González, Alejandro Moreo, Fabrizio Sebastiani.
 _Binary Quantification and Dataset Shift: An Experimental Investigation_
-*Data Mining and Knowledge Discovery*, "Just Accepted", 
-2024
-[[arXiv]](https://arxiv.org/abs/2310.04565)
+*Data Mining and Knowledge Discovery*, vol 38, pp 1670–1712, 2024
+[[arXiv]](https://arxiv.org/abs/2310.04565), 
+[[link]](https://doi.org/10.1007/s10618-024-01014-1)
 
 * Mirko Bunse, Alejandro Moreo, Fabrizio Sebastiani, Martin Senz.
 _Regularization-based methods for ordinal quantification_
-*Data Mining and Knowledge Discovery*, "Just Accepted", 
-2024
+*Data Mining and Knowledge Discovery*, vol 38, issue 6, pp 4076-4121, 
+2024 
 [[arXiv]](https://arxiv.org/abs/2310.09210)
+[[link]](https://doi.org/10.1007/s10618-024-01067-2)
 
 * Silvia Corbara, Alejandro Moreo, Fabrizio Sebastiani. 
 _Same or Different? Diff-Vectors for Authorship Analysis_.
@@ -172,6 +190,12 @@ ISBN: 978-3-031-20466-1, ISSN: 2949-8066. [[open-access]](https://link.springer.
 ## Conference papers
 
 International conferences (22 items)
+
+* Lorenzo Volpi, Alejandro Moreo, Fabrizio Sebastiani, A Simple Method for Classifier Accuracy Prediction under Prior Probability Shift. The 27th International Conference on
+Discovery Science, Pisa, Italy, October 14th to October 16th, 2024. Best SoBigData Paper
+Runner-up. Lecture Notes in Computer Science, vol 15244. Springer, Cham. pp. 267-283
+[[link]](https://doi.org/10.1007/978-3-031-78980-9_17)
+
 * Mirko Bunse, Alejandro Moreo, Fabrizio Sebastiani, Martin Senz, Ordinal Quantification
 through Regularization. ECML / PKDD 2022, 33rd European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases,
 Grenoble, France, September 19-23, 2022, pp. 36-52
