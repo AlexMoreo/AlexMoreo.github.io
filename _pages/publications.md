@@ -13,7 +13,7 @@ author_profile: true
 
 * Lorenzo Volpi, Alejandro Moreo, Fabrizio Sebastiani.
   _QuAcc: Using Quantification to Predict Classifier Accuracy Under Prior Probability Shift_.
-  *Intelligenza Artificiale*, 2025. [[link]](https://doi.org/10.1177/172480352513383)
+  *Intelligenza Artificiale*, 2025. [[link]](https://doi.org/10.1177/17248035251338347)
 
 * Alejandro Moreo, Pablo González, Juan José del Coz.
   _Kernel Density Estimation for Multiclass Quantification_.
